@@ -30,8 +30,11 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 ### `Installation Steps`
 
 Clone the project
+
 Run npm install
+
 Run npm start
+
 Setup api urls in src/redux/constants/actionTypes.js
 
 
